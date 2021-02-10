@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         QzoneCleaner
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/SwetyCore/QzoneCleaner
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  QQ空间净化
+// @author       SwetyCore
 // @match        http*://user.qzone.qq.com/*
 // @grant        none
 // ==/UserScript==
