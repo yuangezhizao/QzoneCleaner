@@ -28,9 +28,9 @@
 body {
     background-position: center;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat!important;
-    background-image: url('https://i0.hdslb.com/bfs/article/d2916e9b56711b13cf1d20b657623fd0d9169b70.jpg@1320w_990h.webp')!important;
+    background-image: url('https://i1.yuangezhizao.cn/anime/Yuru-Camp-2/nmv2_crop.jpg!webp')!important;
 }
 
 .head-nav .head-nav-menu li a {
